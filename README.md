@@ -12,6 +12,9 @@ The project is about Java-based digital gold investment calculator, with unit cu
 - MINTING_FEE_PER_BAR = RM 45.00
 - YEARLY_VAULT_FEE = RM 15.00 (per full year)
 
+# Inputs
+- User inputs their name, amount of gold purchased in grams and holding period in months
+
 # Little bits about me
 I used to learn some basic phyton when I was 13, and some Java when I was in my pre-university program.
 
