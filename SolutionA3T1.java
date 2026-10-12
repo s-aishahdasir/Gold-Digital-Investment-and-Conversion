@@ -34,7 +34,7 @@ public class SolutionA3T1 {
 		
 		double TotalCost = GoldValue + MintingFee + VaultFee;
 		
-		System.out.println("--- AURAGOLD SUMMARY ---");
+		System.out.println("--- YOUR SUMMARY ---");
 		System.out.println("Name: "+ name);
 		System.out.println("Duration: " + durationYear + " Years, " + durationMonths + " Months");
 		System.out.println("Gold: "+ df.format(GoldPurchased) + " grams");
